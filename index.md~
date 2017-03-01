@@ -3,5 +3,3 @@
 #### William T. Young
 
 Thank you for visiting.
-
-$$x=1, y=2$$
