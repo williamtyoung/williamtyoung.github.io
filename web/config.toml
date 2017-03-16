@@ -1,4 +1,4 @@
-baseurl = "https://williamtyoung.github.io"
+baseurl = "https://williamtyoung.github.io/"
 title = "Bill Young"
 languageCode = "en-us"
 theme = "black-and-light"
