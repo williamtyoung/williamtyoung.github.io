@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Line Of Trust</title>
-    <link>https://lineoftrust.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Line Of Trust</description>
+    <title>Posts on Bill Young</title>
+    <link>https://williamtyoung.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Bill Young</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2017 13:51:23 -0400</lastBuildDate>
-    <atom:link href="https://lineoftrust.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://williamtyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome!</title>
-      <link>https://lineoftrust.github.io/post/welcome/</link>
+      <link>https://williamtyoung.github.io/post/welcome/</link>
       <pubDate>Wed, 15 Mar 2017 13:51:23 -0400</pubDate>
       
-      <guid>https://lineoftrust.github.io/post/welcome/</guid>
+      <guid>https://williamtyoung.github.io/post/welcome/</guid>
       <description>
 
 &lt;h2 id=&#34;introducing-the-line-of-trust-lotr&#34;&gt;Introducing the Line of Trust (LOTr)&lt;/h2&gt;
@@ -28,13 +28,13 @@ browser attacks that target the very pixels of a browser UI on a given webpage,
 especially with regards to the (presumably) browser-controlled portion of the UI above
 webpage content.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lineoftrust.github.io/images/lod.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/lod.png&#34; alt=&#34;&#34; /&gt;
 &lt;center&gt;The Line of Death. &lt;em&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;LoD attacks span the spectrum from manipulating URL names and tabs to spoofing new browser windows within the
 webpage&amp;rsquo;s content area:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lineoftrust.github.io/images/zone4.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/zone4.png&#34; alt=&#34;&#34; /&gt;
 &lt;center&gt;Webpage controlled content. &lt;em&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/16/certified-malice/&#34; target=&#34;_blank&#34;&gt;Certified Malice&lt;/a&gt; is a
@@ -42,7 +42,7 @@ phishing attack that deceives users into trusting a page that looks nearly ident
 to the real site, including TLS certificates with realistic naming schemes.
 This threat becomes even more potent if combined with URL pixel manipulation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lineoftrust.github.io/images/prompt.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/prompt.png&#34; alt=&#34;&#34; /&gt;
 &lt;center&gt;Spoofed OS prompt in browser. &lt;em&gt;&lt;a href=&#34;https://malwaretips.com/blogs/wp-content/uploads/2015/02/adobe-flash-palyer-outdated-virus.jpg&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;LoD attacks encompass more than just browser-object and URL spoofing attacks.  Some attacks
@@ -50,7 +50,7 @@ attempt to erode users&amp;rsquo; abilities to discern legitimate OS prompts fro
 displayed in the browser, often designed to scare users into downloading or updating software.&lt;/p&gt;
 
 &lt;p&gt;Given the broad range of LoD-inspired attacks that have surfaced in the past
-year, the &lt;a href=&#34;https://lineoftrust.github.io/&#34;&gt;Line of Trust&lt;/a&gt; project seeks to improve the level of security a
+year, the &lt;a href=&#34;https://williamtyoung.github.io/&#34;&gt;Line of Trust&lt;/a&gt; project seeks to improve the level of security a
 browser provides when trusted UI pixels and browser notifications are compromised or forged.&lt;/p&gt;
 
 &lt;h3 id=&#34;goals-for-line-of-trust&#34;&gt;Goals for Line of Trust&lt;/h3&gt;
