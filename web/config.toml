@@ -1,0 +1,10 @@
+baseurl = "https://lineoftrust.github.io/"
+title = "Line Of Trust"
+languageCode = "en-us"
+theme = "hugo-theme-minos"
+
+[params]
+    katex = true
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
