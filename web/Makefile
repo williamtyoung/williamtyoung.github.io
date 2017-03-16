@@ -1,5 +1,5 @@
 .PHONY: dev html github 
-THEME=hugo-theme-minos
+THEME=black-and-light
 MSG=rebuilt site on `date`
 
 dev:

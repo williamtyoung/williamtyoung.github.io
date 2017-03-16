@@ -1,7 +1,10 @@
 baseurl = "https://williamtyoung.github.io"
 title = "Bill Young"
 languageCode = "en-us"
-theme = "hugo-theme-minos"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
 
 [params]
     katex = true
