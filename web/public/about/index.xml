@@ -1,85 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bill Young</title>
-    <link>https://williamtyoung.github.io/index.xml</link>
-    <description>Recent content on Bill Young</description>
+    <title>Abouts on Bill Young</title>
+    <link>https://williamtyoung.github.io/about/index.xml</link>
+    <description>Recent content in Abouts on Bill Young</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 13:51:23 -0400</lastBuildDate>
-    <atom:link href="https://williamtyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Welcome!</title>
-      <link>https://williamtyoung.github.io/post/welcome/</link>
-      <pubDate>Wed, 15 Mar 2017 13:51:23 -0400</pubDate>
-      
-      <guid>https://williamtyoung.github.io/post/welcome/</guid>
-      <description>
-
-&lt;h2 id=&#34;introducing-the-line-of-trust-lotr&#34;&gt;Introducing the Line of Trust (LOTr)&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Erasing the line of death for fun and pleasure&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;motivation&#34;&gt;Motivation&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;Line of Death (LoD)&lt;/a&gt; is a class of web
-browser attacks that target the very pixels of a browser UI on a given webpage,
-especially with regards to the (presumably) browser-controlled portion of the UI above
-webpage content.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/lod.png&#34; alt=&#34;&#34; /&gt;
-&lt;center&gt;The Line of Death. &lt;em&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;LoD attacks span the spectrum from manipulating URL names and tabs to spoofing new browser windows within the
-webpage&amp;rsquo;s content area:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/zone4.png&#34; alt=&#34;&#34; /&gt;
-&lt;center&gt;Webpage controlled content. &lt;em&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://textslashplain.com/2017/01/16/certified-malice/&#34; target=&#34;_blank&#34;&gt;Certified Malice&lt;/a&gt; is a
-phishing attack that deceives users into trusting a page that looks nearly identical
-to the real site, including TLS certificates with realistic naming schemes.
-This threat becomes even more potent if combined with URL pixel manipulation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://williamtyoung.github.io/images/prompt.png&#34; alt=&#34;&#34; /&gt;
-&lt;center&gt;Spoofed OS prompt in browser. &lt;em&gt;&lt;a href=&#34;https://malwaretips.com/blogs/wp-content/uploads/2015/02/adobe-flash-palyer-outdated-virus.jpg&#34; target=&#34;_blank&#34;&gt;Image credit&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;LoD attacks encompass more than just browser-object and URL spoofing attacks.  Some attacks
-attempt to erode users&amp;rsquo; abilities to discern legitimate OS prompts from spoofed prompts
-displayed in the browser, often designed to scare users into downloading or updating software.&lt;/p&gt;
-
-&lt;p&gt;Given the broad range of LoD-inspired attacks that have surfaced in the past
-year, the &lt;a href=&#34;https://williamtyoung.github.io/&#34;&gt;Line of Trust&lt;/a&gt; project seeks to improve the level of security a
-browser provides when trusted UI pixels and browser notifications are compromised or forged.&lt;/p&gt;
-
-&lt;h3 id=&#34;goals-for-line-of-trust&#34;&gt;Goals for Line of Trust&lt;/h3&gt;
-
-&lt;p&gt;Specifically, we are interested in developing baked-in browser warnings for content that is
-suspected to be a LoD attack. We will be using &lt;a href=&#34;https://chromium.org&#34; target=&#34;_blank&#34;&gt;Google
-Chromium&lt;/a&gt; to develop LOTr.&lt;/p&gt;
-
-&lt;p&gt;Our overarching goal is to reduce the feasibility of LoD attacks while providing
-increased transparency to the end-user. We are currently considering various computer
-vision techniques to build LOTr.&lt;/p&gt;
-
-&lt;h3 id=&#34;relevant-resources&#34;&gt;Relevant Resources&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;News, Blogs, &amp;amp; Forums&lt;/em&gt; &lt;br /&gt;
-&lt;a href=&#34;https://news.ycombinator.com/item?id=13400291&#34; target=&#34;_blank&#34;&gt;The Line of Death - Hacker News&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://textslashplain.com/2017/01/14/the-line-of-death/&#34; target=&#34;_blank&#34;&gt;The Line of Death - Text/Plain&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;contributors&#34;&gt;Contributors&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Anant Kharkar, undergraduate student at the University of Virginia&lt;/li&gt;
-&lt;li&gt;Sam Havron, undergraduate student at the University of Virginia&lt;/li&gt;
-&lt;li&gt;Bill Young, graduate student at the University of Virginia&lt;/li&gt;
-&lt;li&gt;Joshua Holtzman, undergraduate student at the University of Virginia&lt;/li&gt;
-&lt;li&gt;Dave Evans, project advisor and computer science professor at the University of Virginia&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <atom:link href="https://williamtyoung.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>

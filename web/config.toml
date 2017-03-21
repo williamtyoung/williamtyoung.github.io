@@ -11,3 +11,10 @@ pygmentscodefences  = true
 [blackfriday]
 plainIDAnchors = true
 hrefTargetBlank = true
+
+[[menu.main]]
+    name = "About"
+    url  = "about/"
+[[menu.main]]
+    name = "Posts"
+    url  = "https://williamtyoung.github.io/"
