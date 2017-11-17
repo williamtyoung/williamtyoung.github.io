@@ -2,148 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Bill Young</title>
-    <link>https://williamtyoung.github.io/about/index.xml</link>
+    <link>https://williamtyoung.github.io/about/</link>
     <description>Recent content in Abouts on Bill Young</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://williamtyoung.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://williamtyoung.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>https://williamtyoung.github.io/about/</link>
+      <link>https://williamtyoung.github.io/about/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://williamtyoung.github.io/about/</guid>
-      <description>&lt;html&gt;
-
-&lt;style&gt;
-body { background-color: #ffffff;
-       font-family: &#39;Cardo&#39;, serif; }
-h3 { color: #000000;
-     margin-left: 0px;
-     font-family: &#39;Raleway&#39;, serif; }
-a { text-decoration: none;
-	color: #0000aa;	 }
-a:hover { text-decoration: none;
-		  color:#ff0000; }
-&lt;/style&gt;
-
-&lt;head&gt;
-	&lt;title&gt;William T. Young&lt;/title&gt;
-	&lt;link href=&#34;https://fonts.googleapis.com/css?family=Oranienbaum|Raleway|Playfair+Display|Cantata+One|Cardo|Fanwood+Text|Lora|Merriweather&#34; rel=&#34;stylesheet&#34;&gt;
-&lt;/head&gt;
-
-&lt;body&gt;
-
-&lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;8&#34; align=&#34;center&#34;&gt;
-
-	&lt;tr align=&#34;left&#34; valign=&#34;top&#34;&gt;
-		&lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
-			&lt;img alt=&#34;headshot&#34; src=&#34;cover2.jpg&#34; width=&#34;272&#34; height=&#34;410&#34; align=&#34;left&#34; hspace=&#34;6&#34; /&gt;
-		&lt;/td&gt;
-		&lt;td align=&#34;left&#34; valign=&#34;top&#34;&gt;
-			&lt;hr /&gt;
-			&lt;font size=&#34;+1&#34;&gt;&lt;strong&gt;William T. Young&lt;/strong&gt;&lt;/font&gt;
-			&lt;br /&gt;
-			&lt;em&gt;Ensign, US Navy&lt;/em&gt;
-			&lt;hr /&gt;
-			&lt;em&gt;Graduate Fellow&lt;/em&gt;
-			&lt;br /&gt;
-			&lt;a href=&#34;http://www.cs.virginia.edu/&#34;&gt;Department of Computer Science&lt;/a&gt;
-			&lt;br /&gt;
-			&lt;a href=&#34;http://www.seas.virginia.edu/&#34;&gt;School of Engineering and Applied Science&lt;/a&gt;
-			&lt;br /&gt;
-			&lt;a href=&#34;http://www.virginia.edu/&#34;&gt;University of Virginia&lt;/a&gt;
-			&lt;br /&gt;
-			Charlottesville, VA 22904, USA
-			&lt;hr /&gt;
-			&lt;p&gt;
-				&lt;a href=&#34;mailto:bill@williamtyoung.com&#34;&gt;bill@williamtyoung.com&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a href=&#34;#&#34;&gt;www.williamtyoung.com&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;br /&gt;
-				&lt;a href=&#34;../docs/resume.pdf&#34;&gt;Resume&lt;/a&gt; | &lt;a href=&#34;../docs/CV.pdf&#34;&gt;Vitae&lt;/a&gt; | &lt;a href=&#34;https://github.com/williamtyoung&#34;&gt;GitHub&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;br /&gt;
-				Albums - &lt;a href=&#34;../photos/life&#34;&gt;Life&lt;/a&gt; | &lt;a href=&#34;../photos/career&#34;&gt;Career&lt;/a&gt; | &lt;a href=&#34;../photos/usna&#34;&gt;USNA&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;br /&gt;
-				&lt;a href=&#34;../stuff/gems.html&#34;&gt;Useful stuff you might like&lt;/a&gt;
-			&lt;/p&gt;
-		&lt;/td&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td colspan=&#34;2&#34;&gt;
-			&lt;hr /&gt;
-		&lt;/td&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td colspan=&#34;2&#34; align=&#34;center&#34;&gt;
-			&lt;h3&gt;&lt;strong&gt;A Brief Summary&lt;/strong&gt;&lt;/h3&gt;
-		&lt;/td&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td colspan=&#34;2&#34; width=&#34;600&#34;&gt;
-			&lt;strong style=&#34;font-family:Lora&#34;&gt;Education &amp; Academics&lt;/strong&gt;
-			&lt;div style=&#34;text-align:justify&#34;&gt;I am a newly commissioned officer in the US Navy,
-				currently pursuing a master&#39;s degree in
-				&lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_science&#34;&gt;computer science&lt;/a&gt;
-				at the University of
-				Virginia.  My research interests include
-				&lt;a href=&#34;https://www.whitehouse.gov/assets/documents/Cyberspace_Policy_Review_final.pdf&#34;&gt;cyber policy&lt;/a&gt;,
-				&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_privacy&#34;&gt;online privacy&lt;/a&gt;,
-				&lt;a href=&#34;https://en.wikipedia.org/wiki/National_Security_Strategy_(United_States)&#34;&gt;national security strategy&lt;/a&gt;, and the
-				&lt;a href=&#34;https://hbr.org/2013/05/how-the-internet-of-things-cha&#34;&gt;Internet of Things (IoT)&lt;/a&gt;.
-				As a midshipman at the US Naval Academy in Annapolis, I studied
-				&lt;a href=&#34;https://www.usna.edu/Academics/Majors-and-Courses/Majors/Cyber-Operations.php&#34;&gt;Cyber Operations&lt;/a&gt;
-				and got to work with some amazingly dedicated and talented people on a wide range
-				of cutting-edge problems.
-				&lt;br /&gt;
-			&lt;/div&gt;
-
-			&lt;br /&gt;
-			&lt;strong style=&#34;font-family:Lora&#34;&gt;Athletics&lt;/strong&gt;
-			&lt;div style=&#34;text-align:justify&#34;&gt;I spent 15 years of my life as
-			a competitive swimmer (100/200 breaststroke, 400 IM) and was fortunate enough
-			to attend the
-			&lt;a href=&#34;https://swimswam.com/news/national/junior-nationals/&#34;&gt;US Junior National Championships&lt;/a&gt;
-			five separate times.
-			I have won individual championship titles at both the state and national levels.
-			In 2012, I qualified to compete for a slot on the US Olympic Team in two events at the
-			US Olympic Team Trials in Omaha, Nebraska.  I enjoyed a brief stint on the world top 100 list
-			in the summer of 2011 and (as of 2016) my name can still be found on the
-			all-time top 100 lists for multiple age groups.&lt;/div&gt;
-
-
-			&lt;br /&gt;
-			&lt;strong style=&#34;font-family:Lora&#34;&gt;Interests&lt;/strong&gt;
-			&lt;div style=&#34;text-align:justify&#34;&gt;I am a big fan of self-improvement books, military strategy, hiking, music, and a hot cup of coffee.
-			&lt;/div&gt;
-
-		&lt;/td&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td colspan=&#34;2&#34;&gt;
-			&lt;hr /&gt;
-		&lt;/td&gt;
-	&lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;div align=&#34;center&#34;&gt;Return to &lt;a href=&#34;../../&#34;&gt;Bill&#39;s home page&lt;/a&gt;&lt;/div&gt;
-&lt;div align=&#34;center&#34; style=&#34;font-size:9pt;width:600px;margin:auto&#34;&gt;&lt;em&gt;These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval by the individual of any of the products, services or opinions of the corporation or organization or individual. The individual bears no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.&lt;/em&gt;&lt;/div&gt;
-&lt;div align=&#34;center&#34; style=&#34;font-size:9pt&#34;&gt;&amp;copy; 2016 Bill Young&lt;/div&gt;
-
-&lt;/body&gt;
-
-&lt;/html&gt;
-
-</description>
+      <guid>https://williamtyoung.github.io/about/index/</guid>
+      <description>body { background-color: #ffffff; font-family: &#39;Cardo&#39;, serif; } h3 { color: #000000; margin-left: 0px; font-family: &#39;Raleway&#39;, serif; } a { text-decoration: none; color: #0000aa;	} a:hover { text-decoration: none; color:#ff0000; }   William T. Young    William T. Young Ensign, US Navy Graduate Fellow Department of Computer Science School of Engineering and Applied Science University of Virginia Charlottesville, VA 22904, USA  bill@williamtyoung.com www.williamtyoung.com Resume | Vitae | GitHub Albums - Life | Career | USNA Useful stuff you might like       A Brief Summary    Education &amp; Academics I am a newly commissioned officer in the US Navy, currently pursuing a master&#39;s degree in computer science at the University of Virginia.</description>
     </item>
     
   </channel>
